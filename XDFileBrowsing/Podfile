@@ -1,0 +1,7 @@
+platform :ios, '9.0'
+use_frameworks!
+
+target 'XDFileBrowsing' do
+    pod 'RxSwift', '~> 4.4.0'
+    pod 'RxCocoa', '~> 4.4.0'
+end
